@@ -1,0 +1,14 @@
+@import '@a1rth/css-normalize';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@theme {
+    --color-accent-red: #e60000;
+    --color-seashell-950: #0C0C0C;
+    --color-seashell-900: #121212;
+    --color-seashell-50: #F7F8F8;
+    --color-seashell-25: #FFFFFF;
+    --color-seashell-100: #F0F1F2;
+    --font-text: "Roboto Flex", sans-serif;
+}
