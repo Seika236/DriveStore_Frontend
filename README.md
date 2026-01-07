@@ -21,6 +21,7 @@
 | **Forms & Validation** | **React Hook Form** + **Zod** |
 | **Real-time** | **Socket.io-client** |
 | **Icons** | **React Icons** |
+| **Infrastructure** | Docker |
 
 ---
 
